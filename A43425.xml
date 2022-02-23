@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse of divine providence, made before an honourable auditory by Samuel Herne ...</title>
+            <author>Herne, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43425</idno>
+            <idno type="STC">Wing H1577</idno>
+            <idno type="STC">ESTC R14998</idno>
+            <idno type="EEBO-CITATION">13143967</idno>
+            <idno type="OCLC">ocm 13143967</idno>
+            <idno type="VID">98026</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98026)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 420:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse of divine providence, made before an honourable auditory by Samuel Herne ...</title>
+                  <author>Herne, Samuel.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Newcomb for G. Kunholt, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A sermon on the Popish Plot.</note>
+                  <note>"Imprimatur, Octob. 11, 1678. Guil. Sill"</note>
+                  <note>Page 12 is stained in filmed copy. Beginning to p. 17 photographed from Union Theological Seminary Library, New York copy and inserted at the end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98026:1" rendition="simple:additions"/>
+            <p>A DISCOURSE OF DIVINE PROVIDENCE, Made before An Honourable AUDITORY.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL HERNE,</hi> Chaplain to His Grace JAMES Duke of <hi>MONMO<g ref="char:V">Ʋ</g>TH.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>IMPRIMATUR,</p>
+                        <closer>
+                           <dateline>
+                              <date>Octob. 11. 1678.</date>
+                           </dateline>
+                           <signed>Guil. Sill.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Newcomb,</hi> for <hi>G. Kunholt,</hi> and are to be ſold at his Shop at the Sign of the Kings Head, over againſt the <hi>Mews,</hi> near <hi>Charing-Croſs.</hi> 1679.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98026:2"/>
+            <pb facs="tcp:98026:2"/>
+            <head>
+               <hi>To the Right Worſhipful,</hi> Sir <hi>HENEAGE FEATHERSTONE.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Had ſcarce made a Con<g ref="char:EOLhyphen"/>cluſion of theſe following Lines, before an unex<g ref="char:EOLhyphen"/>pected Meſſage from <hi>You</hi> found me, while my Thoughts were yet warm with the Influ<g ref="char:EOLhyphen"/>ence of <hi>Providence:</hi> And the Truth is, I was amazed at the Surprizing Instance of <hi>Your</hi> Favour; to find ſo <hi>Worthy and Generous a Patron!</hi> to behold ſo ſignal a Kindneſs ſtreaming from an <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>known
+<pb facs="tcp:98026:3"/> Fountain! and to find the News conveyed by a perfect Stranger! Truly, ſo ſingular a Favour, freely conferred on a Perſon both Obſcure and <g ref="char:V">Ʋ</g>ndeſer<g ref="char:EOLhyphen"/>ving, was a freſh and convincing <hi>Argu<g ref="char:EOLhyphen"/>ment</hi> to me, <hi>That the ſmalleſt Figure in the World was Naked and Open to the Eye of Providence.</hi> And I hope the World will excuſe the trouble of theſe Papers, ſeeing they are Publiſht as a Hearty <hi>Teſtimonial</hi> of my Thankful<g ref="char:EOLhyphen"/>neſs; which is a Debt always to be pay<g ref="char:EOLhyphen"/>ing, but never to be ſufficiently diſcharged,</p>
+            <closer>
+               <salute>Honoured SIR,</salute>
+               <signed>By Your moſt Obliged and moſt Thankful Servant, <hi>SAM<g ref="char:V">Ʋ</g>EL HERNE.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="theological_discourse">
+            <pb n="1" facs="tcp:98026:3" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>HEB. 4.13.</bibl>
+                  <p>Neither is there any Creature that is not manifest in his ſight: for all things are naked and open to the eyes of him, with whom we have to do.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>F once we were convinced that <hi>GOD ALMIGHTY</hi> takes a View of the whole Creation; That He has an Immediate Eye upon every Action of ours; we ſhould be poſſeſt with an Awful Reverence of His Preſence, and be afraid to commit the leaſt Offence: We ſhould make more Conſcience of what we do, becauſe we all ſtand in the Preſence of the Living <hi>GOD.</hi>
+               <pb n="2" facs="tcp:98026:4"/> If the Child is aw'd by the ſight of the Parent, the Servant diligent under the Eye of his Ma<g ref="char:EOLhyphen"/>ſter, and the Subject careful and obedient in the Court of his Prince; nay, if it be Impu<g ref="char:EOLhyphen"/>dence to do an Ill Action in the face of the Sun; How ſhould we fear and tremble, how ſhould we dread the very thoughts of offending in the Preſence of the Omniſcient <hi>GOD?</hi> This was <hi>David</hi>'s Cuſtom;<note place="margin">Pſal. 17.16.</note> 
+               <hi>But as for me, I will behold Thy Face in Righteouſneſs:</hi> This alſo arm'd <hi>Jo<g ref="char:EOLhyphen"/>ſeph</hi> againſt the Importunate Sollicitations of his Wanton Miſtreſs;<note place="margin">Gen. 39.9.</note> 
+               <hi>How can I do this Wick<g ref="char:EOLhyphen"/>edneſs, and ſin againſt God?</hi> It was not amiſs ſaid by <hi>King Ahaſuerus</hi> concerning wicked <hi>Ha<g ref="char:EOLhyphen"/>man,</hi>
+               <note place="margin">Eſther 7.8.</note> 
+               <hi>Will he force the Queen alſo before me in the Houſe?</hi> And whatſoever the Sins were, which the wicked Kings of <hi>Iſrael</hi> were ſaid to commit, yet we find them, by way of Aggra<g ref="char:EOLhyphen"/>vation, thus recorded, <hi>That they did evil in the ſight of the Lord.</hi>
+            </p>
+            <p>
+               <hi>Naked and open:</hi> This was ſpoken to the <hi>Jews,</hi> and therefore the Author makes uſe of thoſe Words and Phraſes which were moſt fa<g ref="char:EOLhyphen"/>miliar unto them: Here he takes a Metaphor from the Cuſtom of the Prieſts in the Examina<g ref="char:EOLhyphen"/>tion of their Sacrifices, whether they were ſound and without blemiſh:<note place="margin">Deut. 15.21.</note> 
+               <hi>For if there be any blemiſh
+<pb n="3" facs="tcp:98026:4"/> therein, thou ſhalt not offer it unto the Lord thy God.</hi>
+            </p>
+            <p>All things are <hi>naked: viz.</hi> viſible and appa<g ref="char:EOLhyphen"/>rent, as if they were ſtript of their outward caſe, and the skin and covering flead off, as the Sacrifices were.</p>
+            <p>
+               <hi>And open:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a word ſcarce uſed again in all the New Teſtament, and ſignifies cut down the back, that the Prieſt might ſearch and look into the moſt hidden parts: This is to put us in mind of that narrow ſearch and in<g ref="char:EOLhyphen"/>ſpection <hi>GOD</hi> has over all our Actions, that He <hi>ſearches and tries our Reins,</hi> that He enters in<g ref="char:EOLhyphen"/>to the moſt remote and private corners of our Hearts, to ſee what is lodged there: for Se<g ref="char:EOLhyphen"/>creſie is the Nurſe of Sin, and Pander of Ini<g ref="char:EOLhyphen"/>quity; <hi>They that are drunk, are drunk in the night.</hi> The Encouragement Men have to ſin, is this, they ſay, <hi>Tuſh, God does not ſee;</hi> as if groſs and impenetrable <hi>Darkneſs was his Pa<g ref="char:EOLhyphen"/>villion:</hi> But when the Prodigal returned, he confeſt, <hi>I have ſinned againſt Heaven, and be<g ref="char:EOLhyphen"/>fore thee,</hi> &amp;c. The <hi>Nicene</hi> Creed ſtiles our Sa<g ref="char:EOLhyphen"/>viour, <hi>Light of Light, Very God of Very God;</hi> and our Church in her Liturgie does fitly pray, <hi>O GOD, to whom all Hearts are open, all deſires are known, and from whom no ſecrets are hid:</hi>
+               <pb n="4" facs="tcp:98026:5"/> The Thief and the Traytor, <hi>Ananias</hi> and <hi>Sap<g ref="char:EOLhyphen"/>phira,</hi> the Adulterer and his Proſtitute, cannot walk <hi>incognito;</hi> for the Hypocrite will be un<g ref="char:EOLhyphen"/>mask'd, the Murder ſhall be revealed, and that Man at laſt confounded with ſhame, who once thought he lived without God in the World. We endeavour to obſerve the Phenomena of the Heavens, but ſeldom conſider how God obſerves our Motions: for if <hi>a thouſand years in his ſight are but as one day,</hi> then the Lives of a thouſand Men are as well known to Him as the Action of one Man: <hi>Neither is there any Creature,</hi> &amp;c</p>
+            <p>The Words may move us to conſider theſe two things:
+<list>
+                  <item>I. <hi>That there is an Almighty Being, who does concern and intereſt Himſelf in the Rule and Management of the World.</hi>
+                  </item>
+                  <item>II. <hi>That whatſoever can be alledged to the contrary, is weak and unreaſonable.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>There is a moſt free and powerful Agent, who takes care of all things he has made: Thus <hi>Job</hi> argues,<note place="margin">Chap. 10.</note> That he was the labour of God's own Hands, that He made him, and faſhion'd him, cloath'd him with Skin and Fleſh, and
+<pb n="5" facs="tcp:98026:5"/> joyn'd him together with Bones and Si<g ref="char:EOLhyphen"/>news; and therefore he hoped He would not deſtroy him.</p>
+            <p>That there is ſuch a Being who undertakes and performs the Government of the World, is evident, <list>
+                  <item>1. <hi>From Scripture Evidence:</hi>
+                  </item>
+                  <item>2. <hi>The Completion of Prophecies:</hi>
+                  </item>
+                  <item>3. <hi>And Teſtimony of Malefactors.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Holy Word divides God's Providence into three Branches, <hi>General, Special,</hi> and <hi>Par<g ref="char:EOLhyphen"/>ticular.</hi>
+            </p>
+            <p>In <hi>General,</hi> it embraces the whole Creation: <hi>The Lord has prepared his Throne in the Hea<g ref="char:EOLhyphen"/>vens, and his Kingdom ruleth over all.</hi>
+               <note place="margin">Pſal. 103.9.</note> Says St. <hi>James,</hi>
+               <note place="margin">Acts 15.18.</note> 
+               <hi>From the beginning GOD knoweth all his Works.</hi> The regular Courſe and Order of Nature demonſtrates the Work of Nature a Work of Intelligence: Thus <hi>the Heavens declare the Glory of GOD, and the Firmament ſheweth his handy-work:</hi>
+               <note place="margin">Pſal. 9.2. Pſal. 147.4.</note> This we find to be the Language of the Creation. <hi>He telleth the number of the Stars, and calleth them all by their names.</hi>
+            </p>
+            <p>The Elements are void of Life and Reaſon; yet by their Natural Duty, Inſtinct and Order,
+<pb n="6" facs="tcp:98026:6"/> they ſeem to point out unto us a higher Cauſe, who lives and knows, who diſpoſes of, and ma<g ref="char:EOLhyphen"/>nages every thing to its own uſeful End. Beaſts and Birds, Fire, Air, Earth and Water, all that we behold under the vaſt Arch of Heaven, move and labour for ſome determined End and Purpoſe: Therefore it is plain they muſt be marſhall'd under the Guidance and Conduct of ſome Powerful Being, who by His great Wiſ<g ref="char:EOLhyphen"/>dom ſo ordain'd it: This is to know the <hi>Cauſe by the Effect:</hi> For the flying of an Arrow, and hitting the Mark, does not more plainly diſco<g ref="char:EOLhyphen"/>ver the Hand that ſhoots it, than the Operati<g ref="char:EOLhyphen"/>ons of the Creatures, and the attainment of their Ends, do certainly declare the Finger of GOD, and the All-ſeeing Eye of Providence: <hi>For the inviſible things of GOD,</hi>
+               <note place="margin">Rom. 2.20.</note> 
+               <hi>even his Power and Godhead, are clearly ſeen, and to be under<g ref="char:EOLhyphen"/>ſtood by the things that are made.</hi>
+            </p>
+            <p>Though Clouds and thick Vapours may ſur<g ref="char:EOLhyphen"/>round this Globe of Earth; though Night may ſpread its Veil of Darkneſs; yet nothing un<g ref="char:EOLhyphen"/>der the Canopy of Heaven can be concealed from the Divine Knowledge: The Spacious Curtain is drawn back to the Eye of Provi<g ref="char:EOLhyphen"/>dence; all things paſt, preſent, and to come:
+<pb n="7" facs="tcp:98026:6"/> The general Hiſtory of the World is openly diſplay'd to Him in a fair extended Scene.</p>
+            <p>It is the High Architect above, who keeps the Frame of this World upon its Baſis: All things have a tye and dependency upon Him; and it is the <hi>Sovereign Will</hi> above who diſpoſes of the different Ranks and Orders of Beings. At firſt GOD iſſued out His <hi>Almighty Fiat,</hi> when He laid the Foundations of the Earth; and th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>refore a Heathen commends <hi>Moſes,</hi>
+               <note place="margin">Dion. Longinus.</note> the Lawgiver of the <hi>Jews,</hi> for introducing his God like a God; ſaying, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Let there be Light, and there was Light.</hi> But though we cannot ſee through the Veil, nor perceive how the Wheels of Providence move; yet we have reaſon to conclude, that the <hi>Wheels</hi> of Provi<g ref="char:EOLhyphen"/>dence are like thoſe in <hi>Ezekiel</hi>'s Viſion, <hi>Full of Eyes; and that God is cloathed with Light,</hi>
+               <note place="margin">Pſal. 104.2.</note> 
+               <hi>as with a Garment.</hi>
+            </p>
+            <p>He does not act like Humane Artificers, who leave the Houſe when it is built, but by His Providence wiſely Governs and Suſtains the ſame: He does not ſtand Neuter, as an indifferent Spectator upon the Watch-Tower above the Clouds; for not only His Head, but His Hand is conſtantly imployed:<note place="margin">Pſal 139.</note> 
+               <hi>If we aſcend up into Heaven, GOD is there: If we take the
+<pb n="8" facs="tcp:98026:7"/> Wings of the Morning, and flee to the uttermoſt parts of the Sea, we cannot flee from His Pre<g ref="char:EOLhyphen"/>ſence:</hi>
+               <note place="margin">Pſal. 113.6.</note> Thus <hi>He abaſeth Himſelf to behold the things that are in the Heavens and in the Earth.</hi>
+            </p>
+            <p>It is He who guides the Stern, curbs the Fury of the Elements, rides upon the Wings of the Wind, ſets Bounds to the raging Sea: When GOD ſpeaks the Word, the contemptible Frog, who now inhabits the cold and watry Kingdoms, and lies upon heaps of Filth and Mud, ſummons all its Croaking Officers, makes a formidable Army, marches up into the Coun<g ref="char:EOLhyphen"/>try like a living Tyde from the Banks of <hi>Nile,</hi> invades the Palaces of Kings, and lies down upon Beds of Silk and coſtly Furniture. The <hi>Egyptians</hi> did uſe to Worſhip ſeveral Gods, according to their need or pleaſure; therefore God ſent variety of Puniſhments, to ſhew that He was not tied to any ſingle Element or Crea<g ref="char:EOLhyphen"/>ture, but is the <hi>Great Ruler of all:</hi> So feeble and deſpicable is Man, when he forfeits his de<g ref="char:EOLhyphen"/>pendency and reliance on GOD, and rejects His Paternal Care, that the whole Creation riſes up in Arms againſt him: How ſoon would the Clouds fall, the Sea break in upon us, the Fire encompaſs us with Flaming Curtains, the Air corrupt, and the Earth open, ſhould
+<pb n="9" facs="tcp:98026:7"/> GOD give the Elements a Commiſſion for De<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>Thus the Univerſe is the great Mirrour of GOD's Works, wherein the Lamps which ſhine and illuſtrate the Edifice of this World, do ſet forth the Glory of their Maker, and diſplay their Beams through the whole Creati<g ref="char:EOLhyphen"/>on: Thus God maintains the Order He has ſet in Nature, and thus He preſerves the Life and Subſtance of all things; as our Saviour ſaid from <hi>the beginning of the World both he and his Father have been working:</hi>
+               <note place="margin">Job 37.3.</note> for <hi>GOD directeth his Voice under the whole Heaven, and his light unto the ends of the World.</hi>
+            </p>
+            <p>This is the General Providence of GOD; but the Scripture alſo informs us of a Special Care and Influence it has upon the Sons of Men: for if the Hairs of our Head be num<g ref="char:EOLhyphen"/>bred, and the Sparrow finds a Refuge under the Wings of the Almighty, certainly GOD will provide for the Nobleſt Inſtance of the Creation, His own Image and Repreſentation.</p>
+            <p>By Natural Senſe Men may know, that GOD is the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The Surveyor of the Upper and the Lower World; (as the Philoſopher call'd Him by way of Eminency) but by Di<g ref="char:EOLhyphen"/>vine Knowledge, we find Him not only to be
+<pb n="10" facs="tcp:98026:8"/> the Governour of the World, but of every particular Member thereof: Not that he barely ſtirs the Springs and Wheels with a Univerſal Motion at a diſtance, but He Preſerves, Su<g ref="char:EOLhyphen"/>ſtains, and Cheriſhes every part. There is a Climax to be uſed in our underſtanding the Nature and Works of GOD:<note place="margin">Pſal. 33.6.</note> For <hi>by the Word of the Lord were the Heavens made, and all the Hoſt of them by the Breath of his Mouth:</hi> then, <hi>The Lord looked down from Heaven,</hi>
+               <note place="margin">Verſ. 13.</note> 
+               <hi>and be<g ref="char:EOLhyphen"/>held the Children of Men:</hi> And when we begin to draw cloſe the Curtains of our Eyes, we re<g ref="char:EOLhyphen"/>main under the Protection of Him <hi>who neither ſlumbers nor ſleeps.</hi>
+            </p>
+            <p>MAN is the moſt abſolute of all Earthly Creatures, the great Miracle and Hiſtory of Nature: there is ſo much Grace and Beauty, ſo much Variety and Proportion in the Limbs of this moſt Noble Fabrick, that 'tis no won<g ref="char:EOLhyphen"/>der the Almighty choſe it for a Seat, and call'd it the <hi>Temple of the Holy Ghoſt.</hi> How has Pro<g ref="char:EOLhyphen"/>vidence order'd the Paſſages and Supports of Humane Life? To conſider how the Chyle leaves the Stomach, and enters into the Lacteal Veins, ſo paſſes to the Liver, then ariſes to the Left Ventricle of the Heart, guſhes out at the Right, and falls into the great Artery: Thus
+<pb n="11" facs="tcp:98026:8"/> the Blood, like another <hi>Drake,</hi> takes its Circu<g ref="char:EOLhyphen"/>lation round the Leſſer World.</p>
+            <p>Not only Private Perſons, but Publick Bo<g ref="char:EOLhyphen"/>dies and Societies of Men are under the Di<g ref="char:EOLhyphen"/>vine Care and Protection: <hi>By Him Kings Reign,</hi>
+               <note place="margin">Prov. 18.15.</note> 
+               <hi>and Princes Decree Juſtice:</hi>
+               <note place="margin">Pſal. 22.28.</note> For <hi>the Kingdom is the Lords, and He is the Governour among the Nations.</hi>
+            </p>
+            <p>The Mighty Revolutions of the World, the Tragical Rents and Confuſions of States and Kingdoms, the Fate of <hi>Caeſar</hi> and <hi>Pompey,</hi> the Diſappointment of Counſels, the Conſervation of the Capitol, the Defeat of Armies Fleſht with long Succeſs, the Pulling aſunder the Thrones of Mighty Empires, the Numerous Accidents and Traverſes of Humane Life, all Tranſactions Publick and Private, depend upon the Over-ruling Will and Pleaſure of GOD: He can turn a Diadem into Shackles, when the Arm of Fleſh preſumes to grapple with the Strength of the Almighty. Four <hi>Monarchies</hi> have been chiefly famous in the World; but when GOD was provoked to withdraw His Supporting Power, they languiſht and fell, they decayed and ſank under their own weight; and now they are beſt traced out by their own Urns, diſcovered by their Funeral Aſhes: <hi>All the Inhabitants of
+<pb n="12" facs="tcp:98026:9"/> the Earth are reputed as nothing, and none can ſtay his hand,</hi>
+               <note place="margin">Dan. 4.32.</note> 
+               <hi>and ſay unto him, What doſt thou?</hi> Tis He who <hi>appeaſeth the Noiſe of the Seas,</hi>
+               <note place="margin">Pſal. 64.7.</note> 
+               <hi>and the Noiſe of the Waves thereof, and the Tumults of the People. GOD is the King over all the Earth,</hi>
+               <note place="margin">Pſal. 47.7.</note> 
+               <hi>ſing Praiſes every one that hath <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding.</hi>
+            </p>
+            <p>Thus far extends GOD's Special Care over Mankind in General. But Thirdly, A choice and Particular Providence attends GOD's own People; He looks upon them with a tender Eye, He dreſſes His Flock with a Paſtoral Care, and endears His own Beloved Children with a Paternal Love: Thus He is ſaid, <hi>To give His Beloved Sleep,</hi> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Peace and Quiet. There is <hi>(as the Schools phraſe it)</hi> a Divine Manu<g ref="char:EOLhyphen"/>tenency, whereby the Choſen of GOD are ſupported in Times of Affliction, their feeble Knees ſtrengthned, and they led through this Vale of Miſery, to a Place of Glory and Tri<g ref="char:EOLhyphen"/>umph.<note place="margin">Mat. 16.18.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>pon a Rock Chriſt has promiſed to build his Church, and the Gates of Hell ſhall never prevail againſt it. Thus ſaith the Lord that created thee,</hi>
+               <note place="margin">Iſai. 43.1, 2.</note> 
+               <hi>O Jacob, that formed thee, O Iſrael, for I have redeemed thee, I have called thee by thy Name, thou art mine: When thou paſſeſt through the Waters, I will be with thee,
+<pb n="13" facs="tcp:98026:9"/> and through the Floods that they do not overflow thee; when thou walkeſt through the Fire it ſhall not burn thee, neither ſhall the Flame kindle upon thee.</hi>
+            </p>
+            <p>GOD will be their Strength and Caſtle of Defence; He will preſerve their going out and coming in; He will ſhield them from the Storms and Battery of Fortune, from the Ma<g ref="char:EOLhyphen"/>lice and Violence of Evil Men and Evil Spirits: What Foundation can be more firm than the Rock of Ages? Who can be ſo ſafe, as he who walks in the Strength of <hi>Iſrael,</hi> and under the Shadow of the Almighty? Or who more free from danger, than he who is ſurrounded with Guardian Angels? GOD ſays of His Own, as <hi>David</hi> did of <hi>Abſalom, See that you do the Young Man no harm;</hi> and as He ſaid of <hi>Jeru<g ref="char:EOLhyphen"/>ſalem, He that toucheth you,</hi>
+               <note place="margin">Zech. 2.8.</note> 
+               <hi>toucheth the Apple of mine Eye.</hi>
+            </p>
+            <p>Though <hi>Machiavel</hi> himſelf Projects and Con<g ref="char:EOLhyphen"/>trives; though the Plot be deep, and the Exe<g ref="char:EOLhyphen"/>cution ſuddain; though the Train be laid, and the Match lighted; though <hi>Achitophel</hi> join in Counſel, and <hi>Senacherib</hi> provide a formidable Hoſt; though the Horſe be prepared to the Battel, and the Lot caſt into the Lap, yet the Ends and Diſpoſal of all things are in the Hand
+<pb n="14" facs="tcp:98026:10"/> of GOD: for were not all things acted by His Permiſſion, He could not be Omnipotent: <hi>He that is our GOD is the GOD of Salvation,</hi>
+               <note place="margin">Pſal. 68.20.</note> 
+               <hi>and unto GOD the LORD belong the Iſſues from Death.</hi> Thus far the Scripture clears the Do<g ref="char:EOLhyphen"/>ctrine of Providence, which was my firſt Ar<g ref="char:EOLhyphen"/>gument.</p>
+            <p>The ſecond may be the Completion of Pro<g ref="char:EOLhyphen"/>pheſies. St. <hi>Peter,</hi> though he was at the Tranſ<g ref="char:EOLhyphen"/>figuration of our Saviour, with <hi>James</hi> and <hi>John,</hi>
+               <note place="margin">Mat. 17.5.</note> upon the Mount, when Amazing Beams of Light ſurrounded them, and a Voice came from that <hi>Excellent Glory;</hi> yet he lays a greater ſtreſs upon this way of Evidence, and after<g ref="char:EOLhyphen"/>wards gave out,<note place="margin">2 Pet. 1.19.</note> 
+               <hi>That we have a more ſure Word of Propheſie.</hi> This is an Argument of its own Nature infallible: for no Propheſie could be compleated unleſs there was a Chain and Com<g ref="char:EOLhyphen"/>bination of Cauſes knit together, and directed by the great Mover of all things: For if Hu<g ref="char:EOLhyphen"/>mane Affairs were ſuppoſed to depend upon Chance and Fortune, how could theſe blind Agents compaſs any thing uſeful, certain, or beneficial to Mankind, if they were only guided by the inſenſible Principles of Matter and Mo<g ref="char:EOLhyphen"/>tion jumbled together: The truth is, the very pretence and counterfeit of Propheſie has pro<g ref="char:EOLhyphen"/>duced
+<pb n="15" facs="tcp:98026:10"/> wonder and amazement. Thus it fared with <hi>Alexander</hi> in his bold Expedition againſt the <hi>Scythians:</hi> for when the Army began to mutiny, becauſe of the difficult Paſſages and Fatigues in marching, he was adviſed by a wiſe Man who was in the Camp, and underſtood an Eclipſe was near, to comfort the Souldiers, by telling them, That if within ſo many Hours there was not a manifeſt appearance in the Heavens, as a Signal of the favour of the Gods to proſper their Deſigns, he would deſiſt and retreat: but the Eclipſe appearing, they gave a ſhout, and went on courageouſly.</p>
+            <p>In the Old Teſtament how many Propheſies were recorded, and fulfilled in the New? af<g ref="char:EOLhyphen"/>ter many hundred Years of Intermiſſion, in Na<g ref="char:EOLhyphen"/>tions far diſtant, by Men of different Inclina<g ref="char:EOLhyphen"/>tions and Complexions, diſagreeing in Intereſt, Language and Education. For example, a Curſe is denounced by the Leader of GOD's People, upon him that ſhould attempt to re<g ref="char:EOLhyphen"/>build the Walls of <hi>Jericho;</hi> the Hebrew phraſe is,<note place="margin">Joſ. 6.26.</note> 
+               <hi>He ſhall lay the Foundation thereof in his Eldeſt Son, and in his Youngeſt Son ſhall he ſet up the Gates:</hi> viz The whole Family of that Man ſhould be rooted out: and this happened not long after upon <hi>Hiel,</hi> who laid the Foun<g ref="char:EOLhyphen"/>dation
+<pb n="16" facs="tcp:98026:11"/> thereof <hi>in Abiram his Eldeſt Son, and ſet up the Gates in Segub the Youngeſt.</hi>
+               <note place="margin">1 Kin. 16.34.</note> The De<g ref="char:EOLhyphen"/>ſtruction of <hi>Bethels</hi> Altar was foretold by <hi>Jo<g ref="char:EOLhyphen"/>ſiah</hi> ſome hundreds of Years before it came to paſs. We might inſtance in <hi>Cyrus,</hi> foretold by <hi>Iſaiah:</hi> In the Siege of <hi>Jeruſalem</hi> by the Pro<g ref="char:EOLhyphen"/>phet <hi>Jeremiah;</hi> and the ſeveral Monarchies by <hi>Daniel;</hi> which he foretold ſo exactly, that <hi>Porphyry</hi> (that great Enemy of Chriſtianity) when he had turn'd over the Greek Hiſtorians, and compared them with <hi>Daniel</hi>'s Propheſie, he had nothing to ſay, but in a malicious oppoſi<g ref="char:EOLhyphen"/>tion to affirm a Lye, by likening it to <hi>Lyco<g ref="char:EOLhyphen"/>phron</hi>'s <hi>Caſſandra,</hi> affirming it was wrote after the things had happened.</p>
+            <p>Of all the Teſtimonies that ever GOD pro<g ref="char:EOLhyphen"/>duced to manifeſt a Truth; of all the Seals that ever He ſet to the Confirmation of a thing, nothing appears ſo miraculous and prevailing upon the Underſtanding, as this of the fulfil<g ref="char:EOLhyphen"/>ling of Propheſies. for its Teſtimony is ſure, in its own Nature Unerring and Oracular, and ſubject to no manner of Cheat or Evaſion. To know what is to come, to look into Ages yet unborn, to rip up the Womb of Time, to foretel the Changes of Empires, and the Mo<g ref="char:EOLhyphen"/>ving Sands of Mighty Monarchies; to foreſee
+<pb n="17" facs="tcp:98026:11"/> the Grand Revolutions of this Globe of Earth, (beyond what may be gathered by Obſerva<g ref="char:EOLhyphen"/>tion, and founded upon Preſumption) theſe things are too deep for the Scantling of Hu<g ref="char:EOLhyphen"/>mane Nature to reach, the Object lies too far to be diſcovered by the dim, and narrow ſight of a Mortal Eye: In vain therefore do Men gaze upwards to read their Deſtiny in the Stars, when the Periods of Time, and the Stages of Humane Life are only Regiſtred in the Kingdom of Heaven: In vain alſo do Men appeal to the Shades below, for though <hi>Samuel</hi> may appear in his Mantle, yet he has loſt the Gift of Propheſie. It falls out in this caſe, as in that of the Day of Judgment; the various Succeſs of Humane Affairs, and the Ends of the World, none knoweth them but the FA<g ref="char:EOLhyphen"/>THER Himſelf
+<q xml:lang="lat">
+                  <l>Prudens futuri temporis Exitum</l>
+                  <l>Caliginosâ nocte premit Deus.</l>
+               </q>
+            </p>
+            <p>Theſe things could never be, unleſs there was a Chain of Divine Providence; every Link whereof was ſecured by the Power and Inte<g ref="char:EOLhyphen"/>grity of that GOD, who is always true to His Promiſe, and therefore ſtiled a <hi>Faithful Creator:</hi>
+               <note place="margin">1 Pet. 4.19.</note>
+               <pb n="18" facs="tcp:98026:12"/> for the <hi>Counſel of the Lord</hi> (viz His Provi<g ref="char:EOLhyphen"/>dence) <hi>ſtandeth for ever,</hi>
+               <note place="margin">Pſal. 33.11.</note> 
+               <hi>and the Thoughts of His Heart throughout all Ages.</hi>
+            </p>
+            <p>This is the ſecond Argument, The Fulfilling of Propheſies; the third is, The Remorſe and Conviction of Conſcience which attends Male<g ref="char:EOLhyphen"/>factors.</p>
+            <p>Here the Footſteps of Providence are viſible, when in the very Boſom of the Criminal <hi>the Wrath of GOD is revealed from Heaven;</hi> and it fares with him, as with the unhappy Spirits, <hi>to be tormented before their time.</hi>
+               <note place="margin">Impius eſt ſibi Gehenna.</note> Our common Indictment of Offenders includes the Doctrine of Providence, when their Accuſation begins thus, <hi>Having not the fear of GOD before their Eyes.</hi>
+            </p>
+            <p>How grievous and pungeant are the ſecret Laſhes of Conſcience? How keen and irkſome the memory of <hi>thoſe things whereof we are now aſhamed?</hi>
+               <note place="margin">Rom. 2.15.</note> 
+               <hi>This ſhews the Work of the Law written in Mens Hearts, their Conſciences in the mean while accuſing or excuſing one another:</hi> This is the Private Seſſions of the Soul, where the Reaſon of Man ſits Judge, Conſcience be<g ref="char:EOLhyphen"/>comes the Accuſer, Fear the Jaylor, and Sor<g ref="char:EOLhyphen"/>row the Executioner:
+<q xml:lang="lat">
+                  <pb n="19" facs="tcp:98026:12"/>
+                  <l>Nocte dieque ſuum geſtare in pectore teſtem</l>
+                  <l>Perpetua anxietas.</l>
+               </q>
+            </p>
+            <p>
+               <hi>Tacitus</hi> reports, That when <hi>Nero</hi> did but ſet his foot in the Temple of <hi>Veſta,</hi> he was ſur<g ref="char:EOLhyphen"/>prized with horrour and trembling; and the Hiſtorian adds, that it was <hi>Facinorum Recorda<g ref="char:EOLhyphen"/>tione:</hi> for what had that lewd Tyrant to do in the Temple of <hi>Veſta,</hi> who, in abhorrence of Chaſtity, had defiled his own Mother? If there be no Sovereign Juſtice, and Men think that <hi>Aſtraea</hi> has left Heaven as well as the Earth, then what need they ſtart and tremble when no Mortal Eye ſees them? If we enter into the Chambers of the Sick, to what purpoſe do we ſee them mourn and lament upon their Death-Beds? make ſolemn Vows and Proteſta<g ref="char:EOLhyphen"/>tions for Amendment of Life? What need the Knees ſmite when the Hand wrote upon the Wall? Or why do Dying Men lift up their Eyes to Heaven, if they think there is no GOD, no Righteous Judge, no Tribunal to be Erected there?</p>
+            <p>So much for the firſt Conſideration, That there is an Almighty Being who does concern and intereſt Himſelf in the Rule and Manage<g ref="char:EOLhyphen"/>ment
+<pb n="20" facs="tcp:98026:13"/> of the World: Let us now conſider the Objections; as firſt, Why GOD permits any Evil to be acted in the World?</p>
+            <p>There are two ſorts of Evil, the one of Sin, and the other of Puniſhment; and if we could trace the whole Series of Providence, as far as it relates to the permiſſion of one, and the in<g ref="char:EOLhyphen"/>flicting of the other, we ſhall find nothing re<g ref="char:EOLhyphen"/>pugnant to the Divine Attributes. In the Forming of Man, GOD exerciſed His Wiſdom and His Power; in giving Him Laws, He ſhew'd His Goodneſs and His Juſtice: He made him Lord over his own Will, to Crown the Dignity of his Nature: He gave him the Power of Choice, to declare that He ſtood in no need of his Service and Aſſiſtance, but that He ſhould be as much Glorified in puniſhing his Rebel<g ref="char:EOLhyphen"/>lion, as by rewarding his Obedience. To pre<g ref="char:EOLhyphen"/>vent Sin therefore in Man, GOD muſt either have taken away his Rational Soul, and levell'd him with the Beaſts of the Field; or elſe have ſo far exalted his Nature, that he ſhould be un<g ref="char:EOLhyphen"/>capable of ſinning; either of which Actions would have blotted out the Order of Men, and diſſolv'd the Frame of Humane Nature: So that this Exception is altogether unreaſonable; ſee<g ref="char:EOLhyphen"/>ing we know GOD had a Right to make ſuch
+<pb n="21" facs="tcp:98026:13"/> a Creature as Man, and if he fell, his Sin lies at his own door. GOD muſt either permit many Sins, or none at all; and this latter would either unman, or deſtroy us. Yet the Evils which GOD prevents, are far more than He permits, conſidering the Flux of our Inclinati<g ref="char:EOLhyphen"/>ons, and the Tendency of Humane Nature: So that it is more proper for us to be thankful for GOD's Reſtraining Grace, (ſeeing His Mercy is over all His Works) than to be Pro<g ref="char:EOLhyphen"/>phane and Querulous, to queſtion His Good<g ref="char:EOLhyphen"/>neſs, and the Ordination of His Wiſdom: <hi>For great are the Works of the LORD, and perfect in all His Will.</hi>
+            </p>
+            <p>The ſecond Objection may be, Why Good and Virtuous Men grieve and are afflicted? Why our Saviour left part of His Church Mi<g ref="char:EOLhyphen"/>litant, and not all over Triumphant? Say ſome, if there be a GOD and a Divine Provi<g ref="char:EOLhyphen"/>dence, what is the reaſon ſo little care is taken of the Sons of GOD, and the Heirs of Pro<g ref="char:EOLhyphen"/>miſe? Why are thoſe neglected who make frequent and early Addreſſes unto Heaven? Who live honeſt, ſober, and temperate Lives, yet are ſubject to the Scorn and Deriſion, the Affronts and Inſolencies of Licentious and Pro<g ref="char:EOLhyphen"/>fligate Men? Thus they <hi>Wag their Heads,</hi>
+               <pb n="22" facs="tcp:98026:14"/> and ſay, Why does not GOD ſave them harm<g ref="char:EOLhyphen"/>leſs, and <hi>take them down from the Croſs?</hi> For when they can lay nothing to the charge of GOD's Goodneſs, they begin to queſtion His Power and Dominion: whereas, if we under<g ref="char:EOLhyphen"/>ſtood the ways of GOD's dealing with us; if we could foord the Current of Providence, and find out the Reaſons of the promiſcuous Diſpenſations of Heaven, we ſhould ſee Juſtice in all His Actions; no Innocent oppreſt, none but the Guilty puniſht; nothing taken away, but what we deſerve to loſe: We ſhould find no wild Accidents of Fortune, as if the Reins of the Government of the World were let loſe, though poſſibly the Inſtruments of GOD's over<g ref="char:EOLhyphen"/>ruling Power may be guilty of Violence and Injuſtice.</p>
+            <p>Yet the obvious Reaſons of the Afflictions of Good Men, which we are capable of under<g ref="char:EOLhyphen"/>ſtanding, are ſuch as follow: To wean their Affections from the fondneſs and delight, which the beſt of Men are apt to take in the Plea<g ref="char:EOLhyphen"/>ſures and Vanities of this Life; or that the World may not conclude they ſerved GOD for Profit, and Temporal Advantage; it was the Devil's Argument againſt <hi>Job, He does not ſerve GOD for nought.</hi> Sometimes they come
+<pb n="23" facs="tcp:98026:14"/> for Tryal and Amendment; thus we read of the <hi>Furnace of Affliction,</hi> which is to Purifie and Refine us from the Droſs of this Life, and to prepare us for a better: for he that has not taſted of the Bread of Affliction, (the Moral<g ref="char:EOLhyphen"/>liſt could ſay) <hi>Ignorat rerum Naturae alteram partem:</hi> therefore <hi>David</hi> ſaid, <hi>It was good for him that the LORD had humbled him.</hi> Some<g ref="char:EOLhyphen"/>times Good Men are afflicted for example to others; <hi>Ye have heard of the patience of Job, and have ſeen the end of the LORD.</hi> So that we ſee, for ſeveral Reaſons, GOD does not ſeat all Good Men in the Fortunate Iſlands, but reſerves many to taſte of the Cup of Afflicti<g ref="char:EOLhyphen"/>on. CHRIST was to us a Pattern in Suffering, and upon this very account we have a Title to Heaven; for Poverty, Mourning and Perſecu<g ref="char:EOLhyphen"/>tion, are reckoned among the Beatitudes; and <hi>we are Joynt Heirs with Christ,</hi>
+               <note place="margin">Rom. 8.17.</note> 
+               <hi>if ſo be that we ſuffer with him, that we may be alſo glorified together. For our light affliction, which is but for a moment, worketh for us a far more exceed<g ref="char:EOLhyphen"/>ing and eternal weight of Glory.</hi>
+            </p>
+            <p>This may ſuffice for the ſecond Objection, why Good and Holy Men lie under the Preſſures of Calamity and Sorrow: the third is, How it
+<pb n="24" facs="tcp:98026:15"/> ſtands with the Juſtice and Power of GOD to let the Wicked proſper?</p>
+            <p>This has ſtartled many Sober Men, who ga<g ref="char:EOLhyphen"/>zing upon the proſperous Impieties, and ſhining Fortunes of their Oppreſſors, have been much amazed and diſſatisfied: <hi>David</hi> explains him<g ref="char:EOLhyphen"/>ſelf to this ſenſe at large, <hi>Pſalm</hi> 73. when he ſaw the Sons of the World Neſt themſelves in the Talleſt Cedars; but at laſt he found it was but a Preamble to their own Deſtruction:
+<q xml:lang="lat">
+                  <l>—Tolluntur in altum,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>t lapſu graviore ruant.</l>
+               </q>
+            </p>
+            <p>The very Wealth, Authority and Fulneſs of the Wicked, is often beſtow'd upon them for their own Ruine: Thus it provoked <hi>Herod</hi> to Blaſphemy: <hi>Dives</hi> is alſo now ſenſible that his Table was made a Snare unto him: We find that there was a time, <hi>When the Iniquity of the Amorites was not yet full;</hi>
+               <note place="margin">Gen. 15.16.</note> and the Sentence of the Wicked was,<note place="margin">Prov. 1.32.</note> 
+               <hi>That their Proſperity ſhould ſlay them.</hi> The Proſperous Villanies of our late Regicides, who tore off the Robes of Majeſty, and ſurfeited with Royal Blood, their wonder<g ref="char:EOLhyphen"/>ful Succeſſes did only procure to them a more early Damnation. We ſhould therefore no
+<pb n="25" facs="tcp:98026:15"/> more wonder at the gaudy outſide of a pro<g ref="char:EOLhyphen"/>ſperous Wicked Man, than to ſee an Execu<g ref="char:EOLhyphen"/>tioner very brave, after the Butchering ſome Noble and Gallant Innocent: for Splendid Spoils, are but his Fees and Vales: Theſe Men (as <hi>Ajax</hi> ſaid of <hi>
+                  <g ref="char:V">Ʋ</g>lyſſes</hi>) may put on the Glo<g ref="char:EOLhyphen"/>rious Armour of <hi>Achilles,</hi> only to be made a Mark for Ruine. <hi>Cato,</hi> ſeeing the ſtrange Suc<g ref="char:EOLhyphen"/>ceſs of <hi>Caeſar</hi> againſt <hi>Pompey,</hi> ſaid, <hi>There was a great uncertainty in the Government of the Gods;</hi> alluding poſſibly to that of <hi>Plato</hi> in his Poli<g ref="char:EOLhyphen"/>ticks, <hi>That there are Ages, in which the Gods do Govern the World in their own Perſons, and others wherein they neglect them.</hi> This made the Poet write,
+<q xml:lang="lat">
+                  <l>Marmoreo tumulo Licinus jacet, at Cato parvo;<note place="margin">Mart.</note>
+                  </l>
+                  <l>Pompeius nullo, quis putat eſſe Deos?</l>
+               </q>
+            </p>
+            <p>Every Humane Action is entangled with in<g ref="char:EOLhyphen"/>finite Adherents, ſo that it is impoſſible for us to know the exact Meaſures of the Divine Diſ<g ref="char:EOLhyphen"/>penſations; therefore we muſt patiently abide the time of a more General Knowledge, <hi>viz. The Revelation of the Righteous Judgment of GOD.</hi>
+            </p>
+            <p>GOD has alſo ſeveral other Good Ends,
+<pb n="26" facs="tcp:98026:16"/> when he defers the Puniſhment, and Prorogues the Execution; as that Sinners may Repent and Amend; thus the <hi>Long-ſuffering of our Lord,</hi> is called <hi>Salvation.</hi>
+               <note place="margin">2 Pet. 3.15.</note>
+            </p>
+            <p>Sometimes <hi>GOD</hi> may favour Wicked Men in Temporals, upon the account of ſome good Action of their Parents:<note place="margin">2 Kin. 10 30.</note> when <hi>Jehu</hi>'s Children were to ſway the Scepter to <hi>the fourth Genera<g ref="char:EOLhyphen"/>tion:</hi> For many have received Earthly Bleſ<g ref="char:EOLhyphen"/>ſings, who are never like to enter into the Kingdom of GOD: which is thought to be the ſenſe of thoſe words,<note place="margin">Mat. 10.42.</note> 
+               <hi>Whoſoever ſhall give to theſe little Ones a Cup of cold Water, verily I ſay unto you, he ſhall in no wiſe loſe his Re<g ref="char:EOLhyphen"/>ward:</hi> viz. His Water ſhall be turned into Wine, and he ſhall proſper in Temporal Con<g ref="char:EOLhyphen"/>cerns.</p>
+            <p>The Wicked alſo may fare well for a while for the ſake of their good Neighbors; and therefore the <hi>Jews</hi> have a Proverb to this ſenſe,
+<q xml:lang="lat">Benè eſt Juſto, &amp; benè ejus Vicino.</q>
+            </p>
+            <p>
+               <note place="margin">Gen. 18.23.</note>Says <hi>Abraham</hi> to GOD, <hi>It is not thy pro<g ref="char:EOLhyphen"/>perty to deſtroy the Juſt with the <g ref="char:V">Ʋ</g>njuſt.</hi> Two Hundred Seventy and Six Men ſailed with St. <hi>Paul</hi> to <hi>Rome,</hi> and the Angel told him,
+<pb n="27" facs="tcp:98026:16"/> 
+               <hi>GOD had given him the Lives of all that ſailed with him.</hi>
+               <note place="margin">Acts 27.22.</note>
+            </p>
+            <p>So much in Anſwer to the Proſperity of the Wicked.</p>
+            <p>The fourth and laſt Objection is, Why all things come alike to all Men, as if Chance and Fortune Govern'd the World?</p>
+            <p>To underſtand this, we muſt conſider E<g ref="char:EOLhyphen"/>vents are uſually divided into Neceſſary, Con<g ref="char:EOLhyphen"/>tingent, but not Caſual, Contingent and Ca<g ref="char:EOLhyphen"/>ſual.</p>
+            <p>Neceſſary Events, are thoſe which run in a conſtant ſtream, and never alter, unleſs they are miraculouſly over-ruled and counter<g ref="char:EOLhyphen"/>manded; as Night and Day, Winter and Summer; the Light of the Sun, and the De<g ref="char:EOLhyphen"/>ſcent of Heavy Bodies.</p>
+            <p>Contingent, but not Caſual, are the Events of all our Deſigns and Deliberations, which depend upon Choice and Election; as to go a Journey, build a Houſe, or raiſe an Army; or to perform any Action, which depends up<g ref="char:EOLhyphen"/>on Forecaſt and Conſideration.</p>
+            <p>Contingent and Caſual, are ſuch Events as are not compaſs'd by our Knowledge or Con<g ref="char:EOLhyphen"/>trivance, but ſurprize and attack us on a ſud<g ref="char:EOLhyphen"/>dain;
+<pb n="28" facs="tcp:98026:17"/> as the Arrow which ſlew <hi>Ahab,</hi> when the Bow was drawn at a Venture; and the Dart which wounded the Apoſtate <hi>Julian.</hi> Now all theſe Events, though they have ſeve<g ref="char:EOLhyphen"/>ral Names and diſtinct Terms, in order to our Apprehenſion; yet they are all regulated by Providence: whether the <hi>Venetians</hi> chuſe a Se<g ref="char:EOLhyphen"/>nator, or the <hi>Romans</hi> undertake a Warlike Expedition:<note place="margin">Prov. 16.33.</note> 
+               <hi>The Lot is caſt into the Lap, and the whole diſpoſing thereof is of the LORD, who giveth all things to all, and worketh all things for all, and in all.</hi>
+            </p>
+            <p>Though we ſeem to be ſurrounded with ſwarms of Accidents, though Men think we float in an Ocean of Chances and Adventures; yet upon due Conſideration, it will be found that our ſole Dependance is upon GOD; that we are infinitely Debtors to Providence, and ſo have no reaſon to yield our ſelves up Vaſſals to Fortune: <q xml:lang="lat">Te facimus Fortuna Deam, &amp;c.</q>
+            </p>
+            <p>If every Taſte of Good Succeſs be the Bleſ<g ref="char:EOLhyphen"/>ſing of GOD, and every Diſaſter and Calami<g ref="char:EOLhyphen"/>ty in ſome meaſure a Curſe, then what have we to do with Chance or Fortune? If GOD ſhould
+<pb n="29" facs="tcp:98026:17"/> puniſh no Sin here, the Atheiſt would defie His Providence, and conclude that He neither cares for, nor has any Knowledge of Humane Affairs. If GOD ſhould puniſh every Sin here as ſoon as committed, Men would be apt to think there were no future Rewards nor Pu<g ref="char:EOLhyphen"/>niſhments. When Good Men lament, we may ſee GOD hates all Sin, in puniſhing them: When Bad Men rejoyce, it puts us in Mind of a Day of Judgment, and the Immortality of the Soul. Theſe and other good Uſes we may make from our Obſervations of the Effects of the Divine Will and Pleaſure: for Adverſity ſhews that there is a Providence, as well as Proſperity.
+<q xml:lang="lat">Stantia non poterant tecta probare Deus.</q>
+            </p>
+            <p>It is GOD, who debaſeth the Proud, and exalteth the Humble; who adds Years to the Life of the Penitent, but will not ſuffer the Blood-Thirſty-Man to live out half his days: We behold His Goodneſs when He reſcues and ſupports the Miſerable; and we acknowledge His Power and Dominion, when He ſubdues the Inſolent, and overthrows the Mighty.</p>
+            <p>Thus have I endeavour'd to vindicate the Iſſues of Divine Providence, againſt thoſe pro<g ref="char:EOLhyphen"/>phane
+<pb n="30" facs="tcp:98026:18"/> Men, who, like <hi>Alcibiades,</hi> would ſtrike off the Head of Divine Power, and render GOD Himſelf inſignificant and unactive: They would live independent, and not hold of GOD's Em<g ref="char:EOLhyphen"/>pire; a ſort of Men who are prodigiouſly wick<g ref="char:EOLhyphen"/>ed, and ſtudy to contend againſt Providence, the great Prerogative of Heaven: What is there can eſcape the Eye of Providence? The ſmall<g ref="char:EOLhyphen"/>eſt Sin, though committed under the ſhelter of Darkneſs and Secreſie, is ſet down in great Characters in the Publick Regiſter of Heaven: The Springs and Principles of Life, the ſmalleſt Mite or Inſect, which we can hardly diſcover without the help of Art and Glaſſes, are as ap<g ref="char:EOLhyphen"/>parent and viſible to GOD, as the Glorious Face of the Sun is to us.</p>
+            <p>
+               <hi>All things are open and naked:</hi> 'Tis all broad Day-light in the Land of Providence: <hi>A Ga<g ref="char:EOLhyphen"/>dibus uſque ad Gangen:</hi> From a <hi>Goliah</hi> to a <hi>Zacheus;</hi> from a Monarch to a Peſant; from him who appears great, to him that makes a ſmall Figure in the World; from the higheſt Cherub, to <hi>John</hi> the Baptiſt; from the Raven, to the Sparrow; from the vaſt <hi>Indian</hi> Mines, to the poor Widows Mite.</p>
+            <p>
+               <hi>All things are manifeſt</hi> to Him, from the Swelling Alps, to a Grain of Sand; from an
+<pb n="31" facs="tcp:98026:18" rendition="simple:additions"/> Elephant, to a Fly; the Spreading Oak, to a Blade of Graſs; from the Leviathan, to the pooreſt <hi>Minnum:</hi> Therefore have we not rea<g ref="char:EOLhyphen"/>ſon to ſtudy Reſignation to the Divine Will? to dread His Anger, who is <hi>GOD</hi> Omnipre<g ref="char:EOLhyphen"/>ſent? No Member of the Creation was made but for ſome uſe and ſervice; therefore if we do not anſwer the particular Ends of our Crea<g ref="char:EOLhyphen"/>tion, we ſeem to aſſert, by the inſignificancy of our Lives, that <hi>GOD</hi> made us for no end or purpoſe at all.</p>
+            <p>To conclude: He that walks on the Theatre of this World, and only has an Eye to the Means ſet before him, but deſpiſes the Guidance and Determination of Providence; that Man is a profeſt Atheiſt: And that Man who acknow<g ref="char:EOLhyphen"/>ledges Providence in relation to the End, and yet denies to make uſe of the Means, he is a prophane and unreaſonable Man: for <hi>GOD</hi> is neither pleaſed with that Man, who remits all to Him, nor with him who commits nothing: He ſeldom operates without Man, and does not like that Man ſhould operate without Him; the one is to tempt <hi>GOD</hi> by a pretence of obliging Him, the other to provoke Him, by refuſing to be obliged by Him. But he that ſo uſes the Means ſet before him in all Occurrences of Hu<g ref="char:EOLhyphen"/>mane
+<pb n="32" facs="tcp:98026:19" rendition="simple:additions"/> Life, as to confide in, and depend upon the Favour and Providence of <hi>GOD</hi> to attain the End, he ſhall taſte of the Bounty and Lar<g ref="char:EOLhyphen"/>geſs of Heaven; he proceeds in the beſt way; that Man ſhall be happy and bleſſed for ever: <hi>Which GOD grant we may all be, through JE<g ref="char:EOLhyphen"/>S<g ref="char:V">Ʋ</g>S CHRIST His ſake; To whom, with the FATHER, and HOLY SPIRIT, be Honour and Glory, Dominion and Thanksgiving, World without End.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98026:20" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:98026:21"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:98026:21"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:98026:22"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:98026:22"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:98026:23"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:98026:23"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:98026:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:98026:24"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:98026:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:98026:25"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:98026:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:98026:26"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:98026:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:98026:27"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="12" facs="tcp:98026:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="13" facs="tcp:98026:28"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="14" facs="tcp:98026:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:98026:29"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="16" facs="tcp:98026:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:98026:30"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
